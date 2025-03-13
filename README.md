@@ -1,30 +1,30 @@
-CRUDAPP PARA REGISTRO DE ESTUDIANTES
+CRUDAPP FOR STUDENT REGISTRATION
+Requirements
 
-Requisitos
+    Node.js (LTS version recommended)
+    npm (Included with Node.js)
 
-    Node.js (Recomendado la versión LTS)
-    npm (Viene incluido con Node.js)
+Local Installation
 
-Instalación Local
-Clona o haz un pull de este repositorio en tu máquina local:
+Clone or pull this repository on your local machine:
 
     git clone https://github.com/martinezcristiancsm/easycrud-form
 
-Si ya tienes el repositorio clonado y deseas obtener la última versión:
+If you already have the repository cloned and want to get the latest version:
 
     git pull
 
-Navega al directorio del proyecto:
+Navigate to the project directory:
 
     cd path/to/easycrud
+(Replace path/to/easycrud with the actual path where you cloned the repository.)
 
-Instala las dependencias necesarias:
+Install the required dependencies:
 
     npm install
 
-Desarrollo
+Development
 
-Para iniciar la aplicación en modo desarrollo, ejecuta:
+To start the application in development mode, run:
 
     npm run dev
-
