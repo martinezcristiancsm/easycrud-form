@@ -16,7 +16,7 @@ Si ya tienes el repositorio clonado y deseas obtener la última versión:
 
 Navega al directorio del proyecto:
 
-    cd easycrud
+    cd path/to/easycrud
 
 Instala las dependencias necesarias:
 
