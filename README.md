@@ -12,7 +12,7 @@ Clona o haz un pull de este repositorio en tu máquina local:
 
 Si ya tienes el repositorio clonado y deseas obtener la última versión:
 
-    git push
+    git pull
 
 Navega al directorio del proyecto:
 
