@@ -13,7 +13,7 @@ Instalación Local
 
 Si ya tienes el repositorio clonado y deseas obtener la última versión:
 
-git pull origin <branch>
+git pull 
 
 Navega al directorio del proyecto:
 
