@@ -13,15 +13,15 @@ Instalación Local
 
 Si ya tienes el repositorio clonado y deseas obtener la última versión:
 
-git pull 
+   git push
 
 Navega al directorio del proyecto:
 
-cd easycrudform
+   cd easycrud
 
 Instala las dependencias necesarias:
 
-npm install
+   npm install
 
 Desarrollo
 
