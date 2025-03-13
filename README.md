@@ -10,21 +10,30 @@ Clone or pull this repository on your local machine:
 
     git clone https://github.com/martinezcristiancsm/easycrud-form
 
-If you already have the repository cloned and want to get the latest version:
-
-    git pull
-
 Navigate to the project directory:
 
     cd path/to/easycrud
 (Replace path/to/easycrud with the actual path where you cloned the repository.)
 
+OR
+
+If you already have the repository cloned, then navigate to the project directory:
+
+    cd path/to/easycrud
+(Replace path/to/easycrud with the actual path where you cloned the repository.)
+
+Get the ultimate version
+
+    git pull
+
 Install the required dependencies:
 
     npm install
 
-Development
+Development:
 
 To start the application in development mode, run:
 
     npm run dev
+
+Once the application is running, open your browser and go to http://localhost:5173/
